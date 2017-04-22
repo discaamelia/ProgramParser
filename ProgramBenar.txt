@@ -1,0 +1,12 @@
+program hitung;
+var
+c: integer;
+b: integer;
+a:integer;
+begin
+     a:=3;
+     b:=2;
+     if(a>3)then
+        c:= 4;
+end.
+

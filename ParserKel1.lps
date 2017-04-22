@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="ParserKel1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="887"/>
+        <CursorPos X="29" Y="909"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="10" HistoryIndex="9">
+      <Position1>
+        <Filename Value="ParserKel1.lpr"/>
+        <Caret Line="868" Column="17" TopLine="862"/>
+      </Position1>
+      <Position2>
+        <Filename Value="ParserKel1.lpr"/>
+        <Caret Line="872" Column="6" TopLine="862"/>
+      </Position2>
+      <Position3>
+        <Filename Value="ParserKel1.lpr"/>
+        <Caret Line="901" Column="9" TopLine="872"/>
+      </Position3>
+      <Position4>
+        <Filename Value="ParserKel1.lpr"/>
+        <Caret Line="902" Column="6" TopLine="872"/>
+      </Position4>
+      <Position5>
+        <Filename Value="ParserKel1.lpr"/>
+        <Caret Line="903" TopLine="871"/>
+      </Position5>
+      <Position6>
+        <Filename Value="ParserKel1.lpr"/>
+        <Caret Line="901" Column="12" TopLine="872"/>
+      </Position6>
+      <Position7>
+        <Filename Value="ParserKel1.lpr"/>
+        <Caret Line="902" Column="9" TopLine="871"/>
+      </Position7>
+      <Position8>
+        <Filename Value="ParserKel1.lpr"/>
+        <Caret Line="903" Column="10" TopLine="871"/>
+      </Position8>
+      <Position9>
+        <Filename Value="ParserKel1.lpr"/>
+        <Caret Line="905" Column="10" TopLine="871"/>
+      </Position9>
+      <Position10>
+        <Filename Value="ParserKel1.lpr"/>
+        <Caret Line="883" Column="62" TopLine="867"/>
+      </Position10>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
